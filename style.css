@@ -12,6 +12,21 @@ body {
 	font-weight:600;
 }
 
+.desk{
+  visibility: hidden;
+}
+.full{
+  visibility: visible;
+}
+@media(max-width:600px){
+  .desk{
+    visibility: visible;
+  }
+  .full{
+    visibility: hidden;
+  }
+}
+
 /*******front******/
 .fholder
 {
