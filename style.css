@@ -24,6 +24,9 @@ body {
 	align-items: center;
 	color: rgb(228, 231, 248);
 	}
+	.fholder{
+		visibility: hidden;
+	}
 }
 
 /*******front******/
