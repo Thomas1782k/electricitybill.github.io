@@ -15,6 +15,9 @@ body {
 	display: none;
 }
 @media(max-width:1000px){
+	body{
+		background-size: auto;
+	}
 	.full{
 		display: none;
 	}
